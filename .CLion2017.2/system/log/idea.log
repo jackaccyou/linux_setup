@@ -1,0 +1,70 @@
+2017-08-11 15:55:58,267 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-08-11 15:55:58,278 [     11]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2017-08-11 15:55:58,278 [     11]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2017-08-11 15:55:58,286 [     19]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-172.3317.49, 11 Jul 2017 21:58) 
+2017-08-11 15:55:58,286 [     19]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-08-11 15:55:58,286 [     19]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-915-b5 (JetBrains s.r.o) 
+2017-08-11 15:55:58,288 [     21]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b5 (OpenJDK 64-Bit Server VM) 
+2017-08-11 15:55:58,289 [     22]   INFO -        #com.intellij.idea.Main - JVM Args: -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files\JetBrains\CLion 2017.2\bin\clion64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\JetBrains\CLion 2017.2\lib\boot.jar -Didea.platform.prefix=CLion -Didea.paths.selector=CLion2017.2 -XX:ErrorFile=C:\Users\Vincent\java_error_in_clion_%p.log -XX:HeapDumpPath=C:\Users\Vincent\java_error_in_clion.hprof 
+2017-08-11 15:55:58,289 [     22]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\JetBrains\CLion 2017.2\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-08-11 15:55:58,289 [     22]   INFO -        #com.intellij.idea.Main - JNU charset: MS950 
+2017-08-11 15:55:58,311 [     44]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 20 ms 
+2017-08-11 15:55:58,313 [     46]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-08-11 15:55:58,313 [     46]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-08-11 15:56:20,427 [  22160]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-js-support.xml 
+2017-08-11 15:56:20,429 [  22162]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-08-11 15:56:20,719 [  22452]   INFO - llij.ide.plugins.PluginManager - 26 plugins initialized in 425 ms 
+2017-08-11 15:56:20,722 [  22455]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CSS Support (172.3317.49), CVS Integration (11), CoffeeScript (2.0), Git Integration (8.1), GitHub (172.3317.49), HTML Tools (2.0), IDEA CORE (172.3317.49), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (172.3317.49), Perforce Integration (2.0), PyCharm Community Edition for CLion (172.3317.49), REST Client (172.3317.49), Remote Hosts Access (0.1), Sass support (172.3317.49), Settings Repository (172.3317.49), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), XPathView + XSLT Support (4), YAML (172.3317.49), hg4idea (10.0) 
+2017-08-11 15:56:21,099 [  22832]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\Vincent\.CLion2017.2\system\caches\names.dat' does not exist 
+2017-08-11 15:56:21,101 [  22834]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1967 
+2017-08-11 15:56:21,145 [  22878]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\CLion 2017.2\bin\fsnotifier64.exe 
+2017-08-11 15:56:21,156 [  22889]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-08-11 15:56:21,601 [  23334]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2017-08-11 15:56:21,601 [  23334]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2017-08-11 15:56:21,694 [  23427]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2017-08-11 15:56:21,846 [  23579]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-08-11 15:56:21,858 [  23591]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-08-11 15:56:21,947 [  23680]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:39 
+2017-08-11 15:56:21,952 [  23685]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:5 
+2017-08-11 15:56:21,988 [  23721]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:33 
+2017-08-11 15:56:21,989 [  23722]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2017-08-11 15:56:22,008 [  23741]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-08-11 15:56:22,258 [  23991]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@729c28fd 
+2017-08-11 15:56:22,258 [  23991]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@6c4f2fa 
+2017-08-11 15:56:22,258 [  23991]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@47c85933 
+2017-08-11 15:56:22,277 [  24010]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 1986ms 
+2017-08-11 15:56:22,286 [  24019]   INFO - .intellij.idea.IdeaApplication - App initialization took 24744 ms 
+2017-08-11 15:56:22,557 [  24290]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:LLDBCommands,Stylus,Python,SCSS,CSS,XML,ECMAScript 6,GDBCommands,Sass,Flow,JSX Harmony,Literate CoffeeScript,CoffeeScript,ActionScript,TypeScript,TypeScript JSX,HTML,PythonStub,JavaScript,Less 
+2017-08-11 15:56:22,913 [  24646]   INFO - pl$FileIndexDataInitialization - Initialization done:960 
+2017-08-11 15:56:23,076 [  24809]   INFO - ellij.project.impl.ProjectImpl - 16 project components initialized in 182 ms 
+2017-08-11 15:56:23,435 [  25168]   INFO - exImpl$StubIndexInitialization - Initialization done:530 
+2017-08-11 15:56:23,492 [  25225]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,535 [  25268]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=11, fontScale=null; restored: fontSize=11, fontScale=1.0 
+2017-08-11 15:56:23,535 [  25268]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,535 [  25268]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,535 [  25268]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.0 
+2017-08-11 15:56:23,535 [  25268]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,550 [  25283]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,550 [  25283]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.0 
+2017-08-11 15:56:23,558 [  25291]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,558 [  25291]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.0 
+2017-08-11 15:56:23,564 [  25297]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=11, fontScale=null; restored: fontSize=11, fontScale=1.0 
+2017-08-11 15:56:23,564 [  25297]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.0 
+2017-08-11 15:56:23,569 [  25302]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2017-08-11 15:56:23,569 [  25302]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.0 
+2017-08-11 15:56:23,761 [  25494]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@6c3dd6f 
+2017-08-11 15:56:24,118 [  25851]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@152913a9 
+2017-08-11 15:56:24,377 [  26110]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@461ebfc1 
+2017-08-11 15:57:10,076 [  71809]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-08-11 15:57:10,077 [  71810]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-08-11 15:57:10,077 [  71810]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-08-11 15:57:10,135 [  71868]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-08-11 15:57:10,136 [  71869]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-08-11 15:57:10,137 [  71870]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2017-08-11 15:57:10,145 [  71878]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-08-11 15:57:10,397 [  72130]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-08-11 15:57:10,406 [  72139]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-08-11 15:57:10,407 [  72140]   INFO -   #com.intellij.util.Restarter - restart: [] 
+2017-08-11 15:57:10,941 [  72674]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-08-11 15:57:10,945 [  72678]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

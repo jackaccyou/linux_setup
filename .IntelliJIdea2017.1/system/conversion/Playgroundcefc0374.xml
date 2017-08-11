@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Vincent\IdeaProjects\Playground\.idea\misc.xml" timestamp="1500090335310" />
+    <file path="C:\Users\Vincent\IdeaProjects\Playground\.idea\modules.xml" timestamp="1500090335364" />
+    <file path="C:\Users\Vincent\IdeaProjects\Playground\.idea\workspace.xml" timestamp="1500218424527" />
+    <file path="C:\Users\Vincent\IdeaProjects\Playground\Playground.iml" timestamp="1500090335173" />
+  </project-files>
+</conversion>
+

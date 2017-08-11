@@ -1,0 +1,31 @@
+{
+	"jdk_version":
+	{
+		"JDK1.8.0u111":
+		{
+			"path": "C:\\Program Files\\Java\\jdk1.8.0_111\\bin",
+			"update": "111",
+			"version": "1.8.0"
+		},
+		"JDK1.8.0u121":
+		{
+			"path": "C:\\Program Files\\Java\\jdk1.8.0_121\\bin",
+			"update": "121",
+			"version": "1.8.0"
+		},
+		"use": "JDK1.8.0u121"
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "E:\\Google 雲端硬碟\\Computer Science\\Year 2\\COMP2017 Operating System\\lab"
+				}
+			]
+		}
+	}
+}

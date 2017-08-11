@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ActualVim",
+		"Anaconda",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"DocBlockr",
+		"Javatar",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-javac",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"VintageLines"
+	]
+}

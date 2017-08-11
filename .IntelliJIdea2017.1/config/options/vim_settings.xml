@@ -1,0 +1,61 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1500090542392">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Playground/src/Playground.java" timestamp="1500096743458">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/Playground/src/Playground.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohlsearch</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+      <register name="/" type="4">
+        <text>hello</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>hello</last-search>
+      <last-offset />
+      <last-pattern>hello</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>hello</entry>
+      </history-search>
+      <history-cmd>
+        <entry>nohlsearch</entry>
+        <entry>call NumberToggle()</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

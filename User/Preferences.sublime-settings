@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow (SL).tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"Vintage"
+	],
+	"theme": "Soda Light 3.sublime-theme"
+}
