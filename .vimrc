@@ -93,7 +93,8 @@
                 filetype plugin indent on   " Automatically detect file types.
                 set mouse=a                 " Automatically enable mouse usage
                 set mousehide               " Hide the mouse cursor while typing
-
+                set backspace=indent,eol,start
+                
                 fu! SaveSess()
                   execute 'mksession! ~/.vim/.session.vim'
                 endfunction
