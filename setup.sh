@@ -8,6 +8,7 @@ sudo add-apt-repository -y "deb http://dl.google.com/linux/chrome/deb/ stable ma
 sudo add-apt-repository ppa:webupd8team/java
 sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
 sudo add-apt-repository ppa:numix/ppa
+sudo apt-add-repository ppa:neovim-ppa/stable
 sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/Horst3180/xUbuntu_16.04/ /' > /etc/apt/sources.list.d/arc-theme.list"
 
 # Update
@@ -21,7 +22,7 @@ sudo apt-get -y --allow-unauthenticated install sublime-text-installer \
 git curl google-chrome-stable build-essential python-dev python3-dev \
 cmake oracle-java8-installer libopencv-dev python-opencv python-pip \
 python3-pip python-virtualenv python-numpy python-matplotlib libcupti-dev \
-screenfetch
+screenfetch neovim
 
 # pip install
 echo "###########################pip installing###########################"
@@ -39,25 +40,16 @@ cd ..
 
 git clone https://github.com/jackaccyou/linux_setup.git
 yes | sudo cp -rfa linux_setup/.vimrc .
-yes | sudo cp -rfa linux_setup/.ideavimrc .
 yes | sudo cp -rfa linux_setup/.gitconfig .
-yes | sudo cp -rfa linux_setup/User ~/.config/sublime-text-3/Packages
-cd ~/.vim/bundle/YouCompleteMe
-./install.py --clang-completer
-cd ~
+mkdir -p ~/.config/nvim
+yes | sudo cp -rfa linux_setup/init.vim ~/.config/nvim
 
-# Intellij
-echo "###########################installing intellij###########################"
-wget -O intellij.tar.gz https://download.jetbrains.com/idea/ideaIU-2017.2-no-jdk.tar.gz  
-tar -zxvf ./intellij.tar.gz 
-rm -rf intellij.tar.gz
-cd idea-IU-172.3317.76/bin
-./idea.sh
-cd ~
+
 
 # Vundle
 echo '###########################installing vundle###########################'
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+# git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.config/nvim/bundle/Vundle.vim
 vim -c 'PluginInstall' -c 'qa!'
 
 # Theme
